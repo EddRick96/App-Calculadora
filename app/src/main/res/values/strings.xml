@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Calculadora</string>
+    <string name="Suma">+</string>
+    <string name="Resta">-</string>
+    <string name="Resultado">Resultado...</string>
+    <string name="Division">/</string>
+    <string name="Igual">=</string>
+    <string name="Multiplicacion">x</string>
+    <string name="Limpiar">C</string>
+    <string name="Seno">Sen</string>
+    <string name="Coseno">Cos</string>
+    <string name="Tangente">Tan</string>
+</resources>
