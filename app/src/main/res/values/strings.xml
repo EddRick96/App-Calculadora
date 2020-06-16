@@ -10,4 +10,5 @@
     <string name="Seno">Sen</string>
     <string name="Coseno">Cos</string>
     <string name="Tangente">Tan</string>
+    <string name="operador">Operador</string>
 </resources>
